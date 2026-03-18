@@ -5,6 +5,6 @@ __pycache__/
 venv/
 env/
 models/*.pth
-results/plots/*.png
+!results/plots/*.png
 results/metrics/*.json
 .DS_Store
