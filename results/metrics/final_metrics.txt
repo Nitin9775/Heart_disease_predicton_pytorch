@@ -1,0 +1,11 @@
+Heart Disease Prediction Results
+
+Baseline (Logistic Regression):
+Accuracy: 0.8333
+F1 Score: 0.8148
+ROC-AUC: 0.9018
+
+Neural Network:
+Accuracy: 0.9000
+F1 Score: 0.8889
+ROC-AUC: 0.9330
